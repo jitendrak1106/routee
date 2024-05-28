@@ -125,6 +125,8 @@ class Current {
 
 }
 
+//
+
 $object = new Current('b385aa7d4e568152288b3c9f5c2458a5', '5f9138288b71de3617a87cd3', 'RSj69jLowJ');
 
 $temp = $object->getWeather('Thessaloniki');
